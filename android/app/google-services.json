@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "140024321718",
+    "firebase_url": "https://tilesy.firebaseio.com",
+    "project_id": "tilesy",
+    "storage_bucket": "tilesy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140024321718:android:80421081939c5f7a0ef817",
+        "android_client_info": {
+          "package_name": "com.bionix.tilesy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140024321718-nbdge2vb4kprsg4f2b05lck10m8hkdp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgKSqEXrNzRY9uNUFKIAzSNsFLwiaDVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140024321718-nbdge2vb4kprsg4f2b05lck10m8hkdp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140024321718:android:4862acf68086c3e00ef817",
+        "android_client_info": {
+          "package_name": "com.example.tilesy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140024321718-nbdge2vb4kprsg4f2b05lck10m8hkdp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgKSqEXrNzRY9uNUFKIAzSNsFLwiaDVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140024321718-nbdge2vb4kprsg4f2b05lck10m8hkdp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7854932035593391~7844615364"
+    }
+  ],
+  "configuration_version": "1"
+}
